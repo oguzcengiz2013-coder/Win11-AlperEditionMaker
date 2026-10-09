@@ -1,4 +1,4 @@
-[![AlperEdition Screenshot](screenshot.png)](screenshot.png)
+
 # Win11-AlperEditionMaker
 
 Win11-AlperEditionMaker is a tool for creating customized Windows 11 installation ISOs from your own Windows 11 installation media.
