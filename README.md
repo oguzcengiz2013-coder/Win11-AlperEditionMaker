@@ -9,7 +9,7 @@ It automates common ISO customization tasks and makes it easier to build a perso
 
 ## Download
 
-Download the latest release ZIP from the Releases section.
+Download the latest release ZIP from the [Releases](https://github.com/oguzcengiz2013-coder/Win11-AlperEditionMaker/releases) section.
 
 Extract the ZIP before running the Maker.
 
