@@ -3,6 +3,8 @@
 
 Win11-AlperEditionMaker is a tool for creating customized Windows 11 installation ISOs from your own Windows 11 installation media.
 
+Optional drivers go in the $OEM$\$$\Setup\Scripts\Drivers folder.
+
 It automates common ISO customization tasks and makes it easier to build a personalized Windows 11 installer without manually editing every file.
 
 ## Download
