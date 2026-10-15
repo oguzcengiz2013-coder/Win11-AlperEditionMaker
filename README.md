@@ -1,11 +1,13 @@
 ![Screenshot](screenshot.png?v=2)
 # Win11-AlperEditionMaker
 
-Download ISO files from [Here](https://www.microsoft.com/en-us/software-download/windows11)
+[Windows 11 x64](https://www.microsoft.com/en-us/software-download/windows11)
+[Windows 11 arm64](https://www.microsoft.com/en-us/software-download/windows11arm64)
 
 Win11-AlperEditionMaker is a tool for creating customized Windows 11 installation ISOs from your own Windows 11 installation media.
 
 Optional drivers go in the $OEM$\$$\Setup\Scripts\Drivers folder.
+Note: Starting with v2.0, drivers go in the $OEM$\$1\Drivers\ folder.
 
 It automates common ISO customization tasks and makes it easier to build a personalized Windows 11 installer without manually editing every file.
 
