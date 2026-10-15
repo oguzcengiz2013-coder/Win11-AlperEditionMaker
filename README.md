@@ -13,6 +13,19 @@ Note: Starting with v2.0, drivers go in the $OEM$\$1\Drivers folder.
 
 It automates common ISO customization tasks and makes it easier to build a personalized Windows 11 installer without manually editing every file.
 
+## Supported Windows 11 versions
+
+| Version | Build number | |
+|---|---|---|
+| Windows 11 25H2 | 26200 | RECOMMENDED |
+| Windows 11 24H2 | 26100 | |
+| Windows 11 23H2 | 22631 | |
+| Windows 11 22H2 | 22621 | |
+| Windows 11 21H2 | 22000 | |
+| Windows 11 IoT Enterprise LTSC 2024 | 26100 | |
+
+Note: These are not fully tested.
+
 ## Download
 
 Download the latest release ZIP from the [Releases](https://github.com/oguzcengiz2013-coder/Win11-AlperEditionMaker/releases) section.
