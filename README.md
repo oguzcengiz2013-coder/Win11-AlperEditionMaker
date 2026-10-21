@@ -17,12 +17,12 @@ It automates common ISO customization tasks and makes it easier to build a perso
 
 | Version | Build number | |
 |---|---|---|
-| Windows 11 26H2 | 26300 | RECOMMENDED
-| Windows 11 25H2 | 26200 | |
-| Windows 11 24H2 | 26100 | |
-| Windows 11 23H2 | 22631 | |
-| Windows 11 22H2 | 22621 | |
-| Windows 11 21H2 | 22000 | |
+| Windows 11 26H2 | 26300 |
+| Windows 11 25H2 | 26200 |
+| Windows 11 24H2 | 26100 |
+| Windows 11 23H2 | 22631 |
+| Windows 11 22H2 | 22621 |
+| Windows 11 21H2 | 22000 |
 | Windows 11 IoT Enterprise LTSC 2024 | 26100 | |
 
 Note: These are not fully tested.
