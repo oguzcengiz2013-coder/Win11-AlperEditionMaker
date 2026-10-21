@@ -16,7 +16,7 @@ It automates common ISO customization tasks and makes it easier to build a perso
 ## Supported Windows 11 versions
 
 | Version | Build number |
-|---|---|---|
+|---|---|
 | Windows 11 26H2 | 26300 |
 | Windows 11 25H2 | 26200 |
 | Windows 11 24H2 | 26100 |
