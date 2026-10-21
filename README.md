@@ -1,5 +1,5 @@
 ![Screenshot](screenshot.png?v=2)
-![Screenshot](welcome.png?v=2)
+![Welcome screen](welcome.png?v=2)
 |---|---|
 # Win11-AlperEditionMaker
 
