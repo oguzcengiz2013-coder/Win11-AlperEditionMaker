@@ -1,5 +1,4 @@
 ![Screenshot](screenshot.png?v=2)
-![Welcome](welcome.png)
 # Win11-AlperEditionMaker
 
 [Windows 11 x64](https://www.microsoft.com/en-us/software-download/windows11)
